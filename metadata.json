@@ -1,0 +1,6 @@
+{
+  "name": "Shopkeeper",
+  "description": "Start from ₹0 at an empty stall, buy stock, stop thieves, handle angry customer complaints, build a bazaar empire, and conquer Level 100!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
